@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "gurungsh.github.io/static/css/main.0ebde3ef.chunk.css",
-    "main.js": "gurungsh.github.io/static/js/main.42a06dac.chunk.js",
-    "main.js.map": "gurungsh.github.io/static/js/main.42a06dac.chunk.js.map",
-    "runtime~main.js": "gurungsh.github.io/static/js/runtime~main.5c9223f7.js",
-    "runtime~main.js.map": "gurungsh.github.io/static/js/runtime~main.5c9223f7.js.map",
-    "static/js/2.a8d6398c.chunk.js": "gurungsh.github.io/static/js/2.a8d6398c.chunk.js",
-    "static/js/2.a8d6398c.chunk.js.map": "gurungsh.github.io/static/js/2.a8d6398c.chunk.js.map",
-    "index.html": "gurungsh.github.io/index.html",
-    "precache-manifest.1b85d4caecc73cf2d71d86c6d294a85b.js": "gurungsh.github.io/precache-manifest.1b85d4caecc73cf2d71d86c6d294a85b.js",
-    "service-worker.js": "gurungsh.github.io/service-worker.js",
-    "static/css/main.0ebde3ef.chunk.css.map": "gurungsh.github.io/static/css/main.0ebde3ef.chunk.css.map"
+    "main.css": "/tictactoe/static/css/main.0ebde3ef.chunk.css",
+    "main.js": "/tictactoe/static/js/main.42a06dac.chunk.js",
+    "main.js.map": "/tictactoe/static/js/main.42a06dac.chunk.js.map",
+    "runtime~main.js": "/tictactoe/static/js/runtime~main.9059732a.js",
+    "runtime~main.js.map": "/tictactoe/static/js/runtime~main.9059732a.js.map",
+    "static/js/2.a8d6398c.chunk.js": "/tictactoe/static/js/2.a8d6398c.chunk.js",
+    "static/js/2.a8d6398c.chunk.js.map": "/tictactoe/static/js/2.a8d6398c.chunk.js.map",
+    "index.html": "/tictactoe/index.html",
+    "precache-manifest.e4a9acef5599e4532faf16b79f6ca19f.js": "/tictactoe/precache-manifest.e4a9acef5599e4532faf16b79f6ca19f.js",
+    "service-worker.js": "/tictactoe/service-worker.js",
+    "static/css/main.0ebde3ef.chunk.css.map": "/tictactoe/static/css/main.0ebde3ef.chunk.css.map"
   }
 }
